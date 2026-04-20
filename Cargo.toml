@@ -1,0 +1,6 @@
+[package]
+name = "plato-tile-cascade"
+version = "0.1.0"
+edition = "2021"
+description = "Dependency cascade engine — propagate tile updates downstream"
+license = "MIT"
